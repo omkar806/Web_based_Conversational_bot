@@ -1,4 +1,4 @@
-# LLM-Based Web Search 🚀
+# Web_based_Conversational_bot 🚀
 
 Welcome to the **LLM-Based Web Search** project! This project leverages a Language Model (LLM) to perform real-time search and retrieval of information from the web. It showcases the power of combining LLMs with web scraping and retrieval-augmented generation (RAG) techniques to provide accurate and contextually relevant information.
 
